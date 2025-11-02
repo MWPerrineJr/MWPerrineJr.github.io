@@ -1,2 +1,2 @@
-# MWPerrineJr.github.io
-Portfolio Website
+# Data Science Portfolio for Michael Perrine
+
