@@ -14,6 +14,8 @@ This is a summary of the projects contained in the website.
 ##### Stock Analysis:
 - This analysis focuses on D Wave a quantum computing stock. Understanding stock movement is crucial to making investment decisions. The data is collected from Alpha Vantage a third party site that provides stock data. In the analysis I examined the stock movement over the course of the last four years. In addition I collected the SMA, the lower, middle, and upper bollinger bands. I also calculated the sharp ratio. Finally I ran a random forest regression analysis using XG Boost.
 
+### Github link:
+https://github.com/MWPerrineJr/my_portfolio.git
 ### Contact:
 Below is a list of my contact info. Feel free to connect.
 ##### LinkedIn:
