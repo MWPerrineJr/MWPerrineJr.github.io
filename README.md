@@ -6,11 +6,11 @@ Hello my name is Michael Perrine and I have a background in finance where I spen
 In my spare time I enjoy spending time with my wife and four cats. I am originally from Kansas City Mo. and yes a lifelong Chiefs fan. When possible I will disappear to the golf course for a round or two. What I love about data science is the continual evolution of the career and the need to continue to learn and grow my skills. I have an interest in computer vision and deep learning. An area that I plan on spending time after graduation.
 
 ### Work/Projects
-#####Sales Analysis
+##### Sales Analysis
 - In this section I ran an analysis on synthetic data. The goal of the analysis is to understand the factors that contribute to predicting sales projections. Within the analysis I examined the effects of sales staff, products, and sales figures to project future sales.
-#####Fraud Detection
+##### Fraud Detection
 -
-#####Stock Analysis
+##### Stock Analysis
 
 
 ### Contact
