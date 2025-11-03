@@ -9,9 +9,15 @@ In my spare time I enjoy spending time with my wife and four cats. I am original
 ##### Sales Analysis
 - In this section I ran an analysis on synthetic data. The goal of the analysis is to understand the factors that contribute to predicting sales projections. Within the analysis I examined the effects of sales staff, products, and sales figures to project future sales.
 ##### Fraud Detection
--
+- In this project I used synthetic data to analyze tranaction data to identify fraudulent transactons. To accompolish this goal I completed a series of transformations. To complete the analysis I built a pipeline and ran a logistic regression. In additon I used the data to build an app to identify a fraudulent transaction.
 ##### Stock Analysis
-
+- This analysis focuses on D Wave a quantum computing stock. Understanding stock movement is crucial to making investment decisions. The data is collected from Alpha Vantage a third party site that provides stock data. In the analysis I examined the stock movement over the course of the last four years. In addition I collected the SMA, the lower, middle, and upper bollinger bands. I also calculated the sharp ratio. Finally I ran a random forest regression analysis using XG Boost.
 
 ### Contact
+##### LinkedIn
+https://www.linkedin.com/in/michael-w-perrine
+##### Email
+mchlperrine@yahoo.com
+##### Phone Number
+210-343-9973
 
