@@ -10,7 +10,8 @@ This is a summary of the projects contained in the website.
 ##### Sales Analysis:
 - In this section I ran an analysis on synthetic data. The data for this analysis was obtained from Kaggle. The goal of the analysis is to understand the factors that contribute to predicting sales projections. Within the analysis I examined the effects of sales staff, products, and sales figures to project future sales.
 ##### Fraud Detection:
-- In this project I used synthetic data to analyze tranaction data to identify fraudulent transactons. The data for this analysis was obtained from Kaggle. To accompolish this goal I completed a series of transformations. To complete the analysis I built a pipeline and ran a logistic regression. In additon I used the data to build an app to identify a fraudulent transaction.
+- •	In this project I used synthetic data to analyze transaction data to identify fraudulent transactions. The data for this analysis was obtained from Kaggle. To accomplish this goal, I completed a series of transformations. To complete the analysis, I built a pipeline and ran a logistic regression. In addition, I used the data to build an app to identify a fraudulent transaction.
+
 ##### Stock Analysis:
 - This analysis focuses on D Wave a quantum computing stock. Understanding stock movement is crucial to making investment decisions. The data is collected from Alpha Vantage a third party site that provides stock data. In the analysis I examined the stock movement over the course of the last four years. In addition I collected the SMA, the lower, middle, and upper bollinger bands. I also calculated the sharp ratio. Finally I ran a random forest regression analysis using XG Boost.
 ##### Childcare Analysis:
